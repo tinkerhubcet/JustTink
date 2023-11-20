@@ -20,6 +20,6 @@ Python is a popular language created by guido van rossum in the year 1991.
 
 ## Setting up python in Visual Studio Code
 
-    Visit:
-    https://www.youtube.com/watch?v=9o4gDQvVkLU  for instructions to setup python.
-    Note that you can also use Python's IDLE for writing as well as running a python program.
+  Visit:
+  *https://www.youtube.com/watch?v=9o4gDQvVkLU*  for instructions to setup python.
+  Note that you can also use Python's IDLE for writing as well as running a python program.
