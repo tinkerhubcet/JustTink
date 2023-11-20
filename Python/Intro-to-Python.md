@@ -1,5 +1,7 @@
 # Python
-Python is a popular language created by guido van rossum in the year 1991.
+![HD-wallpaper-python-kod-kodlama-piton-code-software-mobile-logo-py-yazilim](https://github.com/diwatomy04/JustTink/assets/144988434/8a5f4642-91c6-4040-87ff-aa177549f218)
+
+Python is a popular language created by guido van rossum in the year 1991.          
 ## What python can do ?
   Python can be used on a server to create web applications.
   Python can be used alongside software to create workflows.
@@ -9,6 +11,7 @@ Python is a popular language created by guido van rossum in the year 1991.
 ## Why python ?
   
   Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
+
   Python has a simple syntax similar to the English language.
   Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
   Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very 
