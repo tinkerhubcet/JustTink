@@ -1,4 +1,5 @@
-#Intro
-
-#Welcome
-Hi,I'm ARUN C P.Currenltly I'm learning Flutter
+#intro 
+Hi Im Ramees.
+I'm from Thrissur.
+I'm studying MCA.
+I'm excited to learn flutter.
