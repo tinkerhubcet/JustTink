@@ -12,3 +12,12 @@ Develop a program that simulates the rolling of a six-sided die. Use a while loo
 Build a basic calculator program that can perform addition, subtraction, multiplication, and division. Utilize a while loop to create an interactive experience, allowing the user to perform multiple calculations. After each calculation, display the result and provide the option for the user to continue or exit the calculator.
 
 ### You can implement it whatever way you want. :)
+
+## How to upload
+
+- Please create a folder with your name in the folder `Python/Workspace` (Please use full names and avoid spaces).
+- Within that folder, create another folder `Practice` and inside it, create a folder `Set1`.
+- Simply place your Python files there.
+
+Bye bye!
+
