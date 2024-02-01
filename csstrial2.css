@@ -1,0 +1,25 @@
+h1{
+    color:red;
+    background-color:yellow;
+}
+
+.odd{
+    color:blue;
+    background-color:lightgreen;
+}
+
+.even{
+    color:green;
+    background-color:black;
+}
+#prob{
+    color:purple;
+    background-color: chartreuse;
+}
+
+.images{
+    height: 25%;
+    width: 25%;
+    border: 5px dashed blue;
+    box-shadow: 5px 5px 5px 5px red;
+}

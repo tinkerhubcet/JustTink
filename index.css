@@ -1,0 +1,15 @@
+p{
+    color:blue;
+    background-color:rgba(50,90,70,0.5);
+    margin-top:30px;
+    margin-left:30px;
+
+
+}
+div{
+    width:250px;
+    height:50px;
+    background-image:url("harrypotter.png");
+    border:2px solid red;
+
+}
